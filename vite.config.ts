@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/forms_converter/',
+  base: '/forms_convertor/',
   server: {
     open: true,
   },
